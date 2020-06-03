@@ -1,0 +1,11 @@
+D:\games\mygames\MyCorel\MyCorel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\games\mygames\MyCorel\MyCorel\obj\x86\Debug\MyCorel.Form1.resources
+D:\games\mygames\MyCorel\MyCorel\obj\x86\Debug\MyCorel.Properties.Resources.resources
+D:\games\mygames\MyCorel\MyCorel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\games\mygames\MyCorel\MyCorel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\games\mygames\MyCorel\MyCorel\bin\Debug\MyCorel.exe
+D:\games\mygames\MyCorel\MyCorel\bin\Debug\MyCorel.pdb
+D:\games\mygames\MyCorel\MyCorel\obj\x86\Debug\MyCorel.exe
+D:\games\mygames\MyCorel\MyCorel\obj\x86\Debug\MyCorel.pdb
+C:\Users\Alex\Desktop\MyCorelv02\MyCorel\MyCorel\obj\x86\Debug\MyCorel.exe
+C:\Users\Alex\Desktop\MyCorelv02\MyCorel\MyCorel\obj\x86\Debug\MyCorel.pdb

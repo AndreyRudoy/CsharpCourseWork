@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\bin\Debug\MyCorel.exe
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\bin\Debug\MyCorel.pdb
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\obj\x86\Debug\NedoPaint.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\obj\x86\Debug\MyCorel.Form1.resources
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\obj\x86\Debug\MyCorel.Properties.Resources.resources
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\obj\x86\Debug\NedoPaint.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\obj\x86\Debug\NedoPaint.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\obj\x86\Debug\MyCorel.exe
+C:\Users\user\Desktop\Рудий А.С  NedoPaint\MyCorel\obj\x86\Debug\MyCorel.pdb
